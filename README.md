@@ -4,7 +4,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 # MUST:
 <ul>
   <li><a href="https://expressjs.com/">Official Express Documentation</a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/">What is the file 'package.json'?</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
 </ul>
