@@ -11,7 +11,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 
 # Other Useful Resources:
 <ul>
-  <li><a href=""> </a></li>
+  <li><a href="https://nodemon.io/"> Automatically restart your server with Nodemon</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
 </ul
